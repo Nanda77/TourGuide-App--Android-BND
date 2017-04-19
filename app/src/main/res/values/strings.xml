@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">London Guide</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_restaurant">Restaurants</string>
+    <string name="category_nightLife">Night Life</string>
+    <string name="activity_attractions">Attractions</string>
+    <string name="activity_shopping">Shopping</string>
+    <string name="activity_restaurant">Restaurants</string>
+    <string name="activity_nightLife">Night Life</string>
+
+    <!--Descriptions-->
+    <string name="popularity_1">Popularity: 1</string>
+    <string name="popularity_2">Popularity: 2</string>
+    <string name="popularity_3">Popularity: 3</string>
+    <string name="popularity_4">Popularity: 4</string>
+    <string name="popularity_5">Popularity: 5</string>
+    <string name="popularity_6">Popularity: 6</string>
+    <string name="popularity_7">Popularity: 7</string>
+
+    <!--Attractions-->
+    <string name="attraction_1">British Museum</string>
+    <string name="attraction_2">Tower of London</string>
+    <string name="attraction_3">Buckingham Palace</string>
+    <string name="attraction_4">Big Ben</string>
+    <string name="attraction_5">Madame Tussads</string>
+    <string name="attraction_6">Tower Bridge</string>
+    <string name="attraction_7">London Zoo</string>
+
+    <!--Shopping-->
+    <string name="shopping_1">Oxford Street</string>
+    <string name="shopping_2">Regent Street</string>
+    <string name="shopping_3">Baker Street</string>
+    <string name="shopping_4">Jermyn Street</string>
+    <string name="shopping_5">Sloane Street</string>
+    <string name="shopping_6">Carnaby Street</string>
+    <string name="shopping_7">Marylebone Street</string>
+
+    <!--Restaurants-->
+    <string name="restaurant_1">The Ledbury</string>
+    <string name="restaurant_2">Restaurant Gordon</string>
+    <string name="restaurant_3">Chez Bruce</string>
+    <string name="restaurant_4">The Wolsely</string>
+    <string name="restaurant_5">The Hope</string>
+    <string name="restaurant_6">Club Gascon</string>
+    <string name="restaurant_7">Cittie of Yorke</string>
+
+    <!--Night Life -->
+    <string name="nightLife_1">Princess Louise</string>
+    <string name="nightLife_2">Milk Honey</string>
+    <string name="nightLife_3">Ministry of Sound</string>
+    <string name="nightLife_4">The Gun</string>
+    <string name="nightLife_5">Ye Old Mitre</string>
+    <string name="nightLife_6">The Lamb</string>
+    <string name="nightLife_7">Harrow</string>
+
+</resources>
